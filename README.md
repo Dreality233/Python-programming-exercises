@@ -2,9 +2,7 @@
 
 100+ Python challenging programming exercises.
 
-## Python Comics
+**100+ Python challenging programming exercises for Python 3.md**  lists all the questions and official solutions.
 
-Hey guys I just created a comic for learning Python if you like you could see it from here: https://aicodeplayer.com
-For now I just use Chinese if you like I could use English as well.
+My solutions are available in the **Python-programming-exercises-solutions**  direcory.
 
-![Python Comic](https://github.com/zhiwehu/Python-programming-exercises/blob/master/comic.png?raw=true)

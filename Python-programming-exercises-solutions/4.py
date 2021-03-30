@@ -1,0 +1,5 @@
+raw_str = input()
+splited_list = raw_str.split(',')
+print(splited_list)
+splited_tuple = tuple(splited_list)
+print(splited_tuple)
